@@ -1,7 +1,7 @@
-name: Output Event
+name: Output-Event
 on: issues
 jobs:
-  Output Events:
+  Output-Events:
     runs-on: ubuntu-latest
     steps:      
       - name: Check Issues
